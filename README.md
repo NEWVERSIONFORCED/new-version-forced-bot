@@ -13,7 +13,7 @@ You need to add the bot to your server using the following link:
 Add the bot to your server, then:
 
 * `!notify_channel #channel_name` to set the channel to receive notification when a forced update happens.
-* `!format ...\$version...` to set the format of the message.
+* `!format ...$version...` to set the format of the message.
 * `!info` to retrieve the current notification channel and format.
 * `!test` to test the current configuration.
 
