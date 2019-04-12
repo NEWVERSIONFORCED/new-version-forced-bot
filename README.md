@@ -23,6 +23,8 @@ This bot requires initial `Administrator` permission to work. It will create a p
 
 If you didn't allow `Administrator` permission, simply kick the bot and re-add.
 
+It goes without saying that bot needs `Send Messages` permission for the notify channel.
+
 # Support
 
 Any questions, please join my [Discord Server](https://discord.gg/bA6djWa).
