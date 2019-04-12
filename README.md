@@ -5,7 +5,7 @@ Monitoring current forced version of Pokémon Go.
 You need to add the bot to your server using the following link:
 
 
-[Add to server](https://discordapp.com/oauth2/authorize?client_id=563941014126067713&scope=bot&permissions=199704)
+[Add to server.](https://discordapp.com/oauth2/authorize?client_id=563941014126067713&scope=bot&permissions=199704)
 
 
 # Usage
@@ -19,11 +19,18 @@ Add the bot to your server, then:
 
 # Permission
 
-This bot requires initial `Administrator` permission to work. It will create a private config channel which only members with `Administrator` permission can see. After the bot is added and the channel is created, you can remove `Administrator` permission but you must configure so that the bot can still see the config channel.
+The bot needs the following permission to work:
 
-If you didn't allow `Administrator` permission, simply kick the bot and re-add.
+## Mandatory
 
-It goes without saying that bot needs `Send Messages` permission for the notify channel.
+* Send Messages
+* Read Messages
+
+## Revokable
+
+* Manage Channels (Can be revoked after the config channel is created).
+* Manage Messages (Can be revoked after the instruction message is pinned).
+* Mention Everyone (Optional, if you don't need to yell at everyone then it's not required).
 
 # Support
 
