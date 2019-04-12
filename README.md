@@ -5,7 +5,7 @@ Monitoring current forced version of Pokémon Go.
 You need to add the bot to your server using the following link:
 
 
-[Add to server](https://discordapp.com/oauth2/authorize?client_id=563941014126067713&scope=bot&permissions=469969976)
+[Add to server](https://discordapp.com/oauth2/authorize?client_id=563941014126067713&scope=bot&permissions=199704)
 
 
 # Usage
