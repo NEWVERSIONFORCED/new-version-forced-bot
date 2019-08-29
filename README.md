@@ -14,6 +14,8 @@ Add the bot to your server, then:
 
 * `!notify_channel #channel_name` to set the channel to receive notification when a forced update happens.
 * `!format ...$version...` to set the format of the message.
+* `!enable_app_stores` to enable notifications for new updates from Apple App Store, Google Play Store and Samsung Galaxy Store.
+* `!disable_app_stores` to disable notifications for new updates from Apple App Store, Google Play Store and Samsung Galaxy Store.
 * `!info` to retrieve the current notification channel and format.
 * `!test` to test the current configuration.
 
